@@ -45,7 +45,7 @@ It's not just an assistant — it's an extension of your digital life.
 ```bash
 git clone https://github.com/FatihMakes/Jarvis-MK37.git
 cd Jarvis-MK37
-pip install -r requirements.txt
+pip install -r requirements-desktop.txt
 playwright install
 python main.py
 ```

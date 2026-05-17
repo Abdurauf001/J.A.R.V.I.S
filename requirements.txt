@@ -1,22 +1,2 @@
-﻿sounddevice
-google-genai
-google-generativeai
-pillow
-requests
-beautifulsoup4
-duckduckgo-search
-playwright
-pyautogui
-pyperclip
-pygetwindow
-opencv-python
-numpy
-mss
-psutil
-comtypes
-pycaw
-win10toast
-send2trash
-youtube-transcript-api
-pywinauto
-# Voice I/O uses sounddevice; PyAudio is not required here.
+# Vercel entrypoint uses only the Python standard library.
+# Install requirements-desktop.txt when running JARVIS locally.
